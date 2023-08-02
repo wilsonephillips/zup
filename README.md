@@ -8,7 +8,7 @@ This was strictly a "Let's see if I can make this work!" I only did it to prove 
 
 This runs the zypper dist-upgrade from a script. It works by clicking the zup.desktop file on your desktop, or wherever you want to put it. You must click the .desktop file to run it. You cannot run it by clicking the script itself. It is the .desktop file that makes Konsole open to run the script. It requires the correct shebang in the script as well.
 
-Open the zup.desktop file in a text editor and change username to match yours in both path locations. Once this is done, right click the .desktop and make sure the paths are correct in the Properties. They should pickup what is in the .desktop file.
+Open the zup.desktop file in a text editor and change username to match yours in both path locations. Once this is done, right click the .desktop and make sure the paths are correct in the Properties. They should pickup what is in the .desktop file. Note: This is not a Link, but a Link to Application.
 
 Place the zup.sh file into your ~/.local/bin folder, so it will be in your $PATH. Make sure it is executable.
 
