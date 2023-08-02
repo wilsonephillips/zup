@@ -1,4 +1,4 @@
-# zypper dup
+# sudo zypper dup
 
 Update REPO and Flaptpak packages in one shot.
 
