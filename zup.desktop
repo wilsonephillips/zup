@@ -1,0 +1,17 @@
+[Desktop Entry]
+Comment[en_US]=
+Comment=
+Exec=/home/username/.local/bin/zup.sh
+GenericName[en_US]=Updates all packages
+GenericName=Updates all packages
+Icon=application-x-executable-script
+MimeType=
+Name[en_US]=zup.desktop
+Name=zup.desktop
+Path=/home/username/.local/bin/
+StartupNotify=true
+Terminal=true
+TerminalOptions=konsole
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
